@@ -4,7 +4,7 @@
 This project uses a **Support Vector Machine (SVM)** to predict whether a patient is likely to have diabetes based on various medical attributes. The model is trained on the **Pima Indians Diabetes Database**, which contains important health metrics such as glucose levels, blood pressure, and BMI.
 
 ### Project Features:
-- **Input Attributes:**
+- **Input Attributes:** (Given values based on the dataset)
   - Pregnancies (0 to 17)
   - Glucose Level (0 to 199)
   - Blood Pressure (0 to 122)
